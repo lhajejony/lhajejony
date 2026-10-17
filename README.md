@@ -1,39 +1,44 @@
-# Hi, I'm Mohamed (LHAJEJONY) 👋
+<img src="./dark.svg" alt="Profile banner for Mohamed (LHajejony)" width="100%" />
 
-![matrix-animation](/assets/matrix.gif "Matrix — Mohamed")
+# Hi, I'm Mohamed (LHajejony) 👋
 
-Frontend tinkerer who likes clean interfaces, readable code, and subtle details.
-I mainly work with Python, HTML, CSS, and C — I can also talk React or TypeScript when needed.
+Frontend tinkerer focused on clean interfaces, readable code, and simple but effective user experiences.
 
-## 🔭 Focus
-- Building reliable front-end experiences with HTML & CSS
-- Small utilities and scripts in Python and C
-- Micro-interactions and performance-minded interfaces
+- 🔭 Mostly working with Python, HTML, CSS, and C
+- 🌱 Also comfortable talking React and TypeScript
+- 💡 Interested in UI polish, performance, and good developer workflow
 
-## 🛠️ Tech
+## Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-## Projects (renamed for clarity)
-- Aurora UI — lightweight UI snippets and CSS experiments (was: ui-stuff)
-- QuickScripts — handy Python and shell utilities (was: scripts)
-- TinyC-Tools — small C utilities and learning projects (was: c_projects)
-- StaticPages — personal HTML/CSS experiments and templates (was: web)
+## Current Focus
 
-I can rename your repositories to these cleaner names if you want — say the word and I’ll do it.
+- Build clean front-end experiences
+- Small utility tools and scripts
+- Performance-minded UI work
+- Practical learning in web and systems
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/mohamed-dadoun-845342399/
-- X: https://x.com/lhaje_jony
-- Email: hello@example.com
+## GitHub Stats
 
-## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lhajejony&show_icons=true&theme=tokyonight)
 
----
+## Projects
 
-Notes
-- The matrix animation is a placeholder at `/assets/matrix.gif`. If you want, I can create a minimal dark-style matrix GIF (600px wide, ≤1 MB) and add it to `/assets/` for you. That will give a subtle animated header without JavaScript.
-- If you want me to rename the repositories listed under Projects, confirm and I'll rename them in your account.
+- Aurora UI — lightweight UI snippets and CSS experiments
+- QuickScripts — handy Python and shell utilities
+- TinyC-Tools — small C utilities and learning projects
+- StaticPages — personal HTML/CSS experiments and templates
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/mohamed-dadoun-845342399/
+- X: https://x.com/lhaje_jony
+- GitHub: https://github.com/lhajejony
+
+> Simple, clean, and focused on building useful things.
