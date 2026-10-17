@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed (LHajejony) 👋
+# Hi, I'm Mohamed (LHAJEJONY) 👋
 
 ![matrix-animation](/assets/matrix.gif "Matrix — Mohamed")
 
